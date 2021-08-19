@@ -64,9 +64,15 @@ GitHub issue is beneficial in many ways:
   your issue and comment on it, adding their own thoughts. This can be very
   helpful to your peers who may encounter the same issue, especially if you can
   share your own potential solution to the problem.
+  - **Pro Tip**: it's helpful to check the
+    [closed issues](https://github.com/learn-co-curriculum/phase-4-validation-messages-and-error-handling/issues?q=is%3Aissue+is%3Aclosed)
+    for a lesson to see if others have reported a similar problem and found a
+    solution.
 - GitHub issues will always receive a response from someone on the Flatiron
   curriculum team. We may not be able to address an issue you submit quickly,
   but we will always follow up with a response once the issue is fixed.
+
+You can read more about GitHub issues [here](https://guides.github.com/features/issues/).
 
 If you are experiencing an issue that needs more immediate support or is
 preventing you from continuing in your coursework, reach out to an instructor or
