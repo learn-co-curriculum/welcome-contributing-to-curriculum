@@ -25,36 +25,22 @@ obsolete, **let us know**.
 There are a few ways you can contribute. In this lesson, we'll take a look at
 the different options available.
 
-## Using the Feedback Footer
-
-The quickest and easiest way to contribute is to provide feedback using the
-feedback footer. The feedback footer is located at the bottom of every Canvas
-lesson. The footer starts with a question, "How do you feel about this lesson?",
-followed by two images - a thumbs up and a thumbs down.
-
-![Thumbs Up/Thumbs Down](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-contributing-to-curriculum/thumbs-buttons.png)
-
-Clicking on either thumb will submit feedback on your general impression of the
-lesson - was it good or bad? Lessons with a high number of thumbs down help us
-identify content that needs maintenance. The opposite is true, too. Lessons with
-a high number of thumbs up can indicate a lesson that is effective at achieving
-its purpose and may have an approach worth emulating in other content.
-
 ## Submitting an Issue on GitHub
 
-Below the thumbs up/thumbs down buttons is question, "Have specific feedback?",
-followed by a link:
-
-![Feedback Link](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-contributing-to-curriculum/feedback-link.png)
-
-You can leave feedback and report issues using this link, or by clicking the
-flag icon in the upper-right corner of a Canvas lesson:
+You can leave feedback and report issues by clicking the flag icon in the
+upper-right corner of a Canvas lesson:
 
 ![Github Icon Flag](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-contributing-to-curriculum/flag-icon.png)
 
-Clicking either the flag icon **or** the "Have specific feedback?" link will
-bring you to a new issue form on GitHub for that particular lesson. Submitting a
-GitHub issue is beneficial in many ways:
+Clicking either the flag icon will bring you to a new issue form on GitHub for
+that particular lesson. Make sure to choose the "Software Engineering Issue"
+template:
+
+![Github Issue Template](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-contributing-to-curriculum/github-issue.png)
+
+Fill out as much the relevant information from the template as you can.
+
+Submitting a GitHub issue is beneficial in many ways:
 
 - Using GitHub issues is a common way to raise issues and flag bugs throughout
   the open-source software community as well as being a popular workflow for
@@ -69,8 +55,9 @@ GitHub issue is beneficial in many ways:
     for a lesson to see if others have reported a similar problem and found a
     solution.
 - GitHub issues will always receive a response from someone on the Flatiron
-  curriculum team. We may not be able to address an issue you submit quickly,
-  but we will always follow up with a response once the issue is fixed.
+  curriculum team. We may not be able to address an issue you submit
+  immediately, but we will always follow up with a response once the issue is
+  fixed.
 
 You can read more about GitHub issues [here](https://guides.github.com/features/issues/).
 
